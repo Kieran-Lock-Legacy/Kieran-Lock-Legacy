@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Welcome Gif.gif">
   <br>
-  <h1> <b> To My GitHub Profile! </b? </h1>
+  <h2> <b> To My GitHub Profile! </b> </h2>
 </div>
 <br>
 <br>
-
+<br>
 
 ## About Me
 
@@ -24,7 +24,9 @@
 <code><a href="mailto:kieran.lock@ymail.com"><img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png" height="42"></a></code>
 
 
+##
+
 <div align="center">
-  ## Thanks for visting!
+  <h2> <b> Thanks for visting! </b> </h2>
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </div>
