@@ -30,14 +30,14 @@
 * I speak **English** (Fluent) and **French** (Intermediate)
 
 #### Tools I Mainly Use
-<code> <a href="https://www.python.org/"> <img height="20" src="https://img.icons8.com/metro/26/000000/python.png"> </a> </code> <br>
-<code> <a href="https://www.jetbrains.com/pycharm/"> <img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png"> </a> </code> <br>
-<code> <a href="https://www.image-line.com/"> <img height="20" src="https://img.icons8.com/color/48/000000/fl-studio.png"> </a> </code> <br>
-<code> <a href="https://obsproject.com/"> <img height="20" src="https://img.icons8.com/color/48/000000/obs-studio.png"> </a> </code> <br>
-<code> <a href="https://www.techsmith.com/video-editor.html"> <img height="20" src="https://img.icons8.com/color/48/000000/camtasia-studio.png"> </a> </code> <br>
-<code> <a href="https://atom.io/"> <img height="20" src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png"> </a> </code> <br>
-<code> <a href="https://unity.com/"> <img height="20" src="https://img.icons8.com/ios-filled/50/000000/unity.png"> </a> </code> <br>
-<code> <a href="https://replit.com/"> <img height="20" src="https://cdn.remote.work/companies/ydbk6bgvruTBY0PXx3mCh8uiLN44IpiuXpqf2cde.jpeg"> </a> </code> <br>
+<code> <a href="https://www.python.org/"> <img height="42" src="https://img.icons8.com/metro/26/000000/python.png"> </a> </code> &ensp;
+<code> <a href="https://www.jetbrains.com/pycharm/"> <img height="42" src="https://img.icons8.com/color/48/000000/pycharm.png"> </a> </code> &ensp;
+<code> <a href="https://www.image-line.com/"> <img height="42" src="https://img.icons8.com/color/48/000000/fl-studio.png"> </a> </code> &ensp;
+<code> <a href="https://obsproject.com/"> <img height="42" src="https://img.icons8.com/color/48/000000/obs-studio.png"> </a> </code> <br>
+<code> <a href="https://www.techsmith.com/video-editor.html"> <img height="42" src="https://img.icons8.com/color/48/000000/camtasia-studio.png"> </a> </code> &ensp;
+<code> <a href="https://atom.io/"> <img height="42" src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png"> </a> </code> &ensp;
+<code> <a href="https://unity.com/"> <img height="42" src="https://img.icons8.com/ios-filled/50/000000/unity.png"> </a> </code> &ensp;
+<code> <a href="https://replit.com/"> <img height="42" src="https://cdn.remote.work/companies/ydbk6bgvruTBY0PXx3mCh8uiLN44IpiuXpqf2cde.jpeg"> </a> </code>
 
 #### Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=OneBigUnit&count_private=true&theme=tokyonight&show_icons=true)
