@@ -31,6 +31,8 @@
 #### <b> Other Skills: </b>
 * I have experience in: **Music Production**, and **Video Production & Editing**
 * I speak **English** (Fluent) and **French** (Intermediate)
+* I do **Swimming** (Advanced), and **Water Polo** (Amateur)
+* I play **Piano** (Intermediate), and **Guitar** (Intermediate)
 <br>
 
 #### <b> Tools I Mainly Use: </b>
