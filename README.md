@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Welcome Gif.gif">
+  <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Images/Welcome Gif.gif">
   <br>
   <h3> <b> To My GitHub Profile! </b> </h3>
 </div>
@@ -32,5 +32,5 @@
 
 <div align="center">
   <h1> <b> Thanks for visting! </b> </h1>
-  <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
+  <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Images/Goodbye Gif.gif" align="center">
 </div>
