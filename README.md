@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB" align="center">
+  <img src="https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true" align="center">
   <br>
-  <a href="github.com/OneBigUnit"> My GitHub Profile! </a>
+  <h3> My GitHub Profile! </h3>
 </div>
 
 
@@ -31,3 +31,4 @@
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </details>
 </div>
+#https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB
