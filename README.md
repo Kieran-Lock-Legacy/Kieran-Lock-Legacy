@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB/" align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB" align="center">
   <br>
   <a href="github.com/OneBigUnit"> My GitHub Profile! </a>
 </div>
@@ -16,16 +16,18 @@
 
 ## Contact Me
 
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png">
-<a href="https://discordapp.com/users/380798738295422978"> Discord </a>
+<code><a href="https://discordapp.com/users/380798738295422978"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="42"></a></code>
 <br>
-<img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png">
-<a href="mailto:kieran.lock@ymail.com"> Email </a>
+<code><a href="mailto:kieran.lock@ymail.com"><img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png" height="42"></a></code>
 
 
-<details>
+## 
+
+<div align="center">
+  <details>
   <summary>
     <b> Thanks for visting! </b>
   </summary>
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </details>
+</div>
