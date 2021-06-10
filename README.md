@@ -14,6 +14,7 @@
 * I have limited experience using **JavaScript**, **C++**, **C#**, and **Kotlin**
 * I have some experience in **Unity Game Development**, and **Back-End Web Development**
 * I also have skills in: **Music Production**, and **Video Production & Editing**
+* I speak **English** (Fluent) and **French** (Intermediate)
 
 <br>
 <br>
