@@ -3,6 +3,7 @@
   <br>
   <h3> To My GitHub Profile! </h3>
 </div>
+<br>
 
 
 ## About Me
@@ -25,8 +26,8 @@
 ##
 
 <div align="center">
+  <h1> <b> Thanks for visting! </b> </h1>
   <details>
-    <h1> <b> Thanks for visting! </b> </h1>
     <summary></summary>
     <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
   </details>
