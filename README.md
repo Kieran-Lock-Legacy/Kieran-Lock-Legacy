@@ -15,6 +15,9 @@
 * I have some experience in **Unity Game Development**, and **Back-End Web Development**
 * I also have skills in: **Music Production**, and **Video Production & Editing**
 
+<br>
+<br>
+<br>
 
 ## Contact Me
 
@@ -23,6 +26,9 @@
 <br>
 <code><a href="mailto:kieran.lock@ymail.com"><img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png" height="42"></a></code>
 
+<br>
+<br>
+<br>
 
 ##
 
