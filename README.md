@@ -33,13 +33,13 @@
 <br>
 
 #### Tools I Mainly Use
-<code> <a href="https://www.python.org/"> <img height="42" src="https://img.icons8.com/metro/26/000000/python.png"> </a> </code> &ensp;
+<code> <a href="https://www.python.org/"> <img height="42" src="https://img.icons8.com/color/48/000000/python.png"> </a> </code> &ensp;
 <code> <a href="https://www.jetbrains.com/pycharm/"> <img height="42" src="https://img.icons8.com/color/48/000000/pycharm.png"> </a> </code> &ensp;
 <code> <a href="https://www.image-line.com/"> <img height="42" src="https://img.icons8.com/color/48/000000/fl-studio.png"> </a> </code> &ensp;
 <code> <a href="https://obsproject.com/"> <img height="42" src="https://img.icons8.com/color/48/000000/obs-studio.png"> </a> </code> <br> <br>
 <code> <a href="https://www.techsmith.com/video-editor.html"> <img height="42" src="https://img.icons8.com/color/48/000000/camtasia-studio.png"> </a> </code> &ensp;
-<code> <a href="https://atom.io/"> <img height="42" src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png"> </a> </code> &ensp;
-<code> <a href="https://unity.com/"> <img height="42" src="https://img.icons8.com/ios-filled/50/000000/unity.png"> </a> </code> &ensp;
+<code> <a href="https://atom.io/"> <img height="42" src="https://img.icons8.com/clouds/100/000000/atom-editor.png"> </a> </code> &ensp;
+<code> <a href="https://unity.com/"> <img height="42" src="https://img.icons8.com/nolan/64/unity.png"> </a> </code> &ensp;
 <code> <a href="https://replit.com/"> <img height="42" src="https://cdn.remote.work/companies/ydbk6bgvruTBY0PXx3mCh8uiLN44IpiuXpqf2cde.jpeg"> </a> </code>
 <br> <br> <br>
 
@@ -51,9 +51,7 @@
 
 ## Contact Me
 
-<code> <a href="https://discordapp.com/users/380798738295422978"> <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="42"> </a> </code>
-<br>
-<br>
+<code> <a href="https://discordapp.com/users/380798738295422978"> <img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="42"> </a> </code> &ensp;
 <code> <a href="mailto:kieran.lock@ymail.com"> <img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png" height="42"> </a> </code>
 
 <br>
