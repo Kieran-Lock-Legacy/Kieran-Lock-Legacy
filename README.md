@@ -1,3 +1,5 @@
+## 
+
 <div align="center">
   <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Welcome Gif.gif">
   <br>
@@ -27,8 +29,5 @@
 
 <div align="center">
   <h1> <b> Thanks for visting! </b> </h1>
-  <details>
-    <summary></summary>
-    <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
-  </details>
+  <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </div>
