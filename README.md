@@ -15,12 +15,15 @@ To [My GitHub Profile](github.com/OneBigUnit)!
 
 ## Contact Me
 
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png"> [Discord](https://discordapp.com/users/380798738295422978)
-<img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png"> [Email](mailto:kieran.lock@ymail.com)
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png">
+[Discord](https://discordapp.com/users/380798738295422978)
+<br><br>
+<img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png">
+[Email](mailto:kieran.lock@ymail.com)
 
-<details>
+<Goodbye>
   <summary>
-    **Thanks for visting!**
+    <b> Thanks for visting! </b>
   </summary>
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
-</details>
+</Goodbye>
