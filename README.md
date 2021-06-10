@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Welcome Gif.gif">
   <br>
-  <h2> <b> To My GitHub Profile! </b> </h2>
+  <h3> <b> To My GitHub Profile! </b> </h3>
 </div>
 <br>
 <br>
@@ -27,6 +27,6 @@
 ##
 
 <div align="center">
-  <h2> <b> Thanks for visting! </b> </h2>
+  <h3> <b> Thanks for visting! </b> </h3>
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </div>
