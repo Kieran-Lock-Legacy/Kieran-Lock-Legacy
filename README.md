@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OneBigUnit/OneBigUnit/blob/master/Welcome Gif.gif">
+  <img src="https://github.com/OneBigUnit/OneBigUnit/blob/main/Welcome Gif.gif">
   <br>
   <h3> To My GitHub Profile! </h3>
 </div>
