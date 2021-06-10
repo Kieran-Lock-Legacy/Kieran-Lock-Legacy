@@ -30,9 +30,7 @@
 <br>
 <br>
 
-##
-
 <div align="center">
-  <h3> <b> Thanks for visting! </b> </h3>
+  <h1> <b> Thanks for visting! </b> </h1>
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </div>
