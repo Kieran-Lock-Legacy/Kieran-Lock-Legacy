@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true" align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB/">
   <br>
-  <h3> My GitHub Profile! </h3>
+  <h3> To My GitHub Profile! </h3>
 </div>
 
 
@@ -17,7 +17,7 @@
 ## Contact Me
 
 <code><a href="https://discordapp.com/users/380798738295422978"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" height="42"></a></code>
-<br>
+<br> <br>
 <code><a href="mailto:kieran.lock@ymail.com"><img src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png" height="42"></a></code>
 
 
@@ -26,9 +26,8 @@
 <div align="center">
   <details>
   <summary>
-    <b> Thanks for visting! </b>
+    <h1> <b> Thanks for visting! </b> </h1>
   </summary>
   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </details>
 </div>
-#https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB
