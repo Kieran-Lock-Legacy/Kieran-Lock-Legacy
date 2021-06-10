@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB/">
+  <img src="https://github.com/OneBigUnit/OneBigUnit/blob/master/Welcome Gif.gif">
   <br>
   <h3> To My GitHub Profile! </h3>
 </div>
@@ -25,9 +25,9 @@
 
 <div align="center">
   <details>
-  <summary>
-    <h1> <b> Thanks for visting! </b> </h1>
-  </summary>
-  <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
+    <summary>
+      <h1> <b> Thanks for visting! </b> </h1>
+    </summary>
+   <img src="https://media0.giphy.com/media/9eM1SWnqjrc40/200.gif" align="center">
 </details>
 </div>
